@@ -1,6 +1,15 @@
-# GRC-Core-Registers
+# ISMS-Core-Implementation
 
-Praktický Asset a Risk Register pro telemetrická IoT/OT řešení. Tento repozitář slouží jako ukázka implementace principů Governance, Risk & Compliance (GRC) podle ISO 27001 a NIS2.
+Komplexní rámec pro řízení informační bezpečnosti (ISMS) v prostředí telemetrických IoT/OT řešení.
+
+Tento repozitář představuje praktickou implementaci principů Governance, Risk & Compliance (GRC) navrženou specificky pro monitoring vozového parku a kritickou infrastrukturu. Projekt je plně v souladu s požadavky norem ISO 27001:2022 a evropské směrnice NIS2.
+
+Hlavní přínosy:
+Integrované řízení: Propojení evidence aktiv s analýzou rizik a konkrétními bezpečnostními politikami.
+
+IoT/OT specifika: Řešení rizik spojených s telemetrickými jednotkami, integritou firmwaru a privátní konektivitou.
+
+Audit-Ready: Dokumentace je strukturována tak, aby sloužila jako přímý podklad pro certifikační audity nebo kontrolu dozorových orgánů.
 
 ## Obsah repozitáře
 
